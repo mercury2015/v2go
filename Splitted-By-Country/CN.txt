@@ -1,1 +1,1 @@
-trojan://c30973184a30818b4a19c8b247cc3cd4@ja262.magiclampcloud.cn:59443?allowInsecure=1&sni=ja262.magiclampcloud.cn&type=tcp#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B3%20CN%20%7C%20TROJAN%20%7C%20564
+trojan://74bd27bf0a1968d15e8a020666472b47@tyy129.magiclampcloud.com:59443?allowInsecure=1&type=tcp&sni=tyy129.magiclampcloud.com#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B3%20CN%20%7C%20TROJAN%20%7C%20629

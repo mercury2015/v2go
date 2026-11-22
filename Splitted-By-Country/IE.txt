@@ -1,2 +1,1 @@
-vless://608172ed-68e4-0001-85dc-f92c25d0eb92@168.113.253.178:443?security=tls&sni=uzndiuvzvqqljdyhzs.fcloudservices.site#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20VLESS%20%7C%2043
-vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=service-41f6a2a01377#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20VLESS%20%7C%20447
+vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=service-41f6a2a01377#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20VLESS%20%7C%20187
